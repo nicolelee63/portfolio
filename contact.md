@@ -5,7 +5,7 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-If you would like to connect, please contact me using the form below.
+Say Hello! Submit the form below and I'll be in touch soon.
 
 <form action="https://getsimpleform.com/messages?form_api_token=c5a26fa3dbee027bf966106e0fc88733" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
