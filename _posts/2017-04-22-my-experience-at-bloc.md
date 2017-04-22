@@ -1,0 +1,11 @@
+---
+layout: post
+title: My experience at Bloc
+---
+I started Bloc just over two months ago, and I have been enjoying my time learning and building projects. Before starting Bloc, I was working as a full-time social media manager, logistics support, and e-commerce sales manager all at once for the same company. At the same time, I was participating in competitive dodgeball and weekly open mic nights at a local bar. Since starting Bloc, I still am working the same job and I currently play for four dodgeball teams on a weekly basis.
+
+Prior to starting my course at Bloc, I made a plan to schedule course work into my week. However once I actually started the course, I soon came to the realization that my plan was much more difficult to follow. Originally, I thought that I would be able to study two hours everyday after work and divide the remaining ten hours of work on the weekend. I forgot to budget time for dinner with friends, drinks with teammates, lunch, brunch, and every other typical social activity a 22-year old would have. So I quickly adjusted the way I made plans, that is, I make plans at least a week in advance to make sure my week is not booked with dinners and dodgeball without studying or rest.
+
+When I was in college, I took an interest in programming, so for my last two senior year college electives, I enrolled in Programming 101 and Databases 101. I learned to code using Java and SQL in these classes. Outside of class, I completed numerous classes (HTML/CSS/Command Line) on CodeAcademy and took a Python crash course with General Assembly. Given these courses and experiencies, I was able to go through Frontend Programming Fundamentals fairly quickly without problems. 
+
+Now that I have started the Bloc Jams and portfolio project, I find myself careless when it comes to formatting my code and lost when I have to debug. These two types of errors were not subjects I had touched on or had a lot of experience with even when I was in college. Formatting and debugging are two things that I am working on improving throughout the course.
